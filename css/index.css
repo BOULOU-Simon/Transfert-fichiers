@@ -44,6 +44,14 @@ input, textarea {
 	color:#3a3a3a;
 }
 
+button
+{
+    margin-top: 80px;
+    margin-right: 20px;
+    height: 50px;
+    border-radius: 10px;
+}
+
 input:focus, textarea:focus {
     border:1px solid #97d6eb;
 }
