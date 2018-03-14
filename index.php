@@ -24,13 +24,13 @@
     <div id="envoie">
             <form action="success.php" method="post" class="formu" enctype="multipart/form-data">
 
-                    <h1> Transfactor </h1>
+                            <h1> Transfactor </h1>
 
-                <input type="file" name="file" size="30"> <br/>
-                Mon adresse Mail <input type="email" name="monEmail" size="30"><br/>
-                Adresse Mail du destinataire <input type="email" name="sonEmail" size="30"><br/>
-                Message <input type="textarea" name="message" size="30"><br/>
-                <input type="submit" id="submit" name="envoyer" value="Envoyer" size="30"><br/>
+                             <input type="file" name="file" size="30"> <br/>
+Mon adresse Mail             <input type="email" name="monEmail" size="30"><br/>
+Adresse Mail du destinataire <input type="email" name="sonEmail" size="30"><br/>
+Message                      <input type="textarea" name="message" size="30"><br/>
+                             <input type="submit" id="submit" name="envoyer" value="Envoyer" size="30"><br/>
             </form>
 
     </div>
