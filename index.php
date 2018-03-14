@@ -27,9 +27,9 @@
                     <h1> Transfactor </h1>
 
                 <input type="file" name="file" size="30"> <br/>
-                Mon adresse Mail <input type="email" name="monEmail" size="30"><br/>
-                Adresse Mail du destinataire <input type="email" name="sonEmail" size="30"><br/>
-                Message <input type="textarea" name="message" size="30"><br/>
+               <span> Mon adresse Mail </span><input type="email" name="monEmail" size="30"><br/>
+               <span> Adresse Mail du destinataire </span><input type="email" name="sonEmail" size="30"><br/>
+              <span> Message </span><input type="textarea" name="message" size="30"><br/>
                 <input type="submit" id="submit" name="envoyer" value="Envoyer" size="30"><br/>
             </form>
 
