@@ -16,8 +16,8 @@
 
 <header class="menu">
 
-<button><a class="a1">Aide</a></button>
-<button><a class="a2">A Propos</a></button>
+<a class="a1">Aide</a>
+<a class="a2">A Propos</a>
 
 </header>
 
@@ -31,6 +31,8 @@
     
         <div class="lien">
             <textarea id="to-copy" spellcheck="false">Texte a copier</textarea><br/>
+
+            <!-- Boutton pour le presse papier -->
 
             <button id="copy" type="button"><img class="img2" src="https://png.icons8.com/metro/50/000000/copy.png"></button>
         </div>

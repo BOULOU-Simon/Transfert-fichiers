@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/download.css" rel="stylesheet">
     <script src="js/background.js" async></script>
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <title>Document</title>
@@ -13,12 +14,21 @@
 
 <header class="menu">
 
-<button><a class="a1">Aide</a></button>
-<button><a class="a2">A Propos</a></button>
+<a class="a1">Aide</a>
+<a class="a2">A Propos</a>
 
 </header>
 
 <body>
+
+    <div class="download"> 
+
+        <h1> Pour télécharger votre fichier , cliquer ! </h1>
+
+        <!--  On donne une variable pour le href et download -->
+
+        <a class="a1 tele" href="" download="coucou">TELECHARGER</a>
+    </div>
 
 </body>
 </html>
