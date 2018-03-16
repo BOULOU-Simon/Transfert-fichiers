@@ -1,3 +1,5 @@
+// Changement de brackground avec interval et fondu
+
 $(document).ready(function(){
     var header = $('html');
     

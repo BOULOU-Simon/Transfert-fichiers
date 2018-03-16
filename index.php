@@ -15,8 +15,8 @@
 
 <header class="menu">
 
-<button><a class="a1">Aide</a></button>
-<button><a class="a2">A Propos</a></button>
+<a class="a1">Aide</a>
+<a class="a2">A Propos</a>
 
 </header>
 
@@ -31,7 +31,7 @@
                <span> Mon adresse Mail </span><input type="email" name="monEmail" size="30"><br/>
                <span> Adresse Mail du destinataire </span><input type="email" name="sonEmail" size="30"><br/>
               <span> Message </span><input type="textarea" name="message" size="30"><br/>
-                <input type="submit" id="submit" name="envoyer" value="Envoyer" size="30"><br/>
+                <input class="a1" type="submit" id="submit" name="envoyer" value="Envoyer" size="30"><br/>
             </form>
 
     </div>
