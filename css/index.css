@@ -20,7 +20,6 @@
 form
 {
     color: rgb(70, 76, 78);
-
 }
 
 input
@@ -44,7 +43,7 @@ input, textarea {
 	color:#3a3a3a;
 }
 
-button
+a
 {
     margin-top: 80px;
     margin-right: 20px;

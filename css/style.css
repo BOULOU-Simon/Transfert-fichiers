@@ -56,9 +56,11 @@ a
 .a2 {
     background-color: #8BC34A;
     color: black;
+    
 }
 
 .a2:hover {
     background-color: #5A9216;
     color: white;
+    
 }
