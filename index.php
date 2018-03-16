@@ -25,8 +25,6 @@
             <form action="success.php" method="post" class="formu" enctype="multipart/form-data">
 
                             <h1> Transfactor </h1>
-
-
                 <input type="file" name="file" size="30"> <br/>
                <span> Mon adresse Mail </span><input type="email" name="monEmail" size="30"><br/>
                <span> Adresse Mail du destinataire </span><input type="email" name="sonEmail" size="30"><br/>

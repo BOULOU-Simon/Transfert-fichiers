@@ -30,7 +30,7 @@
     <h2> Voici le lien de votre téléchargement ! </h2>
     
         <div class="lien">
-            <textarea id="to-copy" spellcheck="false">Texte a copier</textarea><br/>
+            <textarea id="to-copy" spellcheck="false" readonly="readonly">Texte a copier</textarea><br/>
 
             <button id="copy" type="button"><img class="img2" src="https://png.icons8.com/metro/50/000000/copy.png"></button>
         </div>
